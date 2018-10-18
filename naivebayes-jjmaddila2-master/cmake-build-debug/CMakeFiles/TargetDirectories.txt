@@ -1,0 +1,5 @@
+/mnt/c/Users/jjmad/CLionProjects/naivebayes-jjmaddila2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/jjmad/CLionProjects/naivebayes-jjmaddila2/cmake-build-debug/CMakeFiles/naivebayes.dir
+/mnt/c/Users/jjmad/CLionProjects/naivebayes-jjmaddila2/cmake-build-debug/CMakeFiles/unit-tests.dir
+/mnt/c/Users/jjmad/CLionProjects/naivebayes-jjmaddila2/cmake-build-debug/CMakeFiles/Test.dir
+/mnt/c/Users/jjmad/CLionProjects/naivebayes-jjmaddila2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/naivebayes.dir/src/NativeBaynes.cpp.o CMakeFiles/naivebayes.dir/src/Probailty.cpp.o  -o naivebayes 
